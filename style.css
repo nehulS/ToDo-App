@@ -28,6 +28,10 @@ form button {
   padding: 0.8rem;
 }
 
+form input:focus {
+  outline: none;
+}
+
 form button {
   margin-left: 1rem;
   cursor: pointer;
